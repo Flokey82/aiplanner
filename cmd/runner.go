@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/Flokey82/go_gens/aiplanner"
 )
 
