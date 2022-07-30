@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Flokey82/go_gens/aiplanner"
+	"github.com/Flokey82/aiplanner"
 )
 
 func main() {
